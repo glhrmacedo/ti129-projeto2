@@ -4,7 +4,6 @@
 
 * Integrante 1
 * Integrante 2
-* Integrante 3
 
 ## 📝 Descrição
 
@@ -15,4 +14,5 @@ Versão    | Data       | O que há de novo
 1.0       | 30/08/2024 | 
 
 ## 📋 Licença
-MIT
+
+Este projeto utiliza a licença [MIT](https://opensource.org/license/mit).
